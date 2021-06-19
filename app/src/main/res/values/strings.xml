@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MedTime_RA2</string>
+    <string name="Title_creUser_criar_perfil">Criar Perfil</string>
+    <string name="creUser_txt_nome">Nome</string>
+    <string name="creUser_txt_senha">Senha</string>
+    <string name="creUser_button_salvarUser">Entrar</string>
+    <string name="Insert_txt_nome_medicamento">Nome Medicamento</string>
+    <string name="insert_txt_data_lembrete">Data Lembrete</string>
+    <string name="Insert_txt_info_adicional">Info Adicional</string>
+    <string name="Insert_butt_salvar">salvar</string>
+    <string name="Log_Title_medtime">MedTime</string>
+    <string name="Log_txt_nome">Nome</string>
+    <string name="Log_txt_senha">Senha</string>
+    <string name="Log_button_entrar">Entrar</string>
+    <string name="Log_button_criar_perfil">Criar Perfil</string>
 </resources>
