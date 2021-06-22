@@ -1,6 +1,6 @@
 package com.pucpr.medtime_ra2;
 
-public class Model {
+public class Activity_Model {
     private String title, description;
     private int img;
 

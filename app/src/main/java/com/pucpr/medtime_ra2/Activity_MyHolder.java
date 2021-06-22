@@ -7,12 +7,12 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class MyHolder extends RecyclerView.ViewHolder {
+public class Activity_MyHolder extends RecyclerView.ViewHolder {
 
     ImageView mImgeView;
     TextView mTitle, mDes;
 
-    public MyHolder(@NonNull View itemView) {
+    public Activity_MyHolder(@NonNull View itemView) {
         super(itemView);
 
         this.mImgeView = itemView.findViewById(R.id.imageTv);

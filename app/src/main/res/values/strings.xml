@@ -13,4 +13,7 @@
     <string name="Log_txt_senha">Senha</string>
     <string name="Log_button_entrar">Entrar</string>
     <string name="Log_button_criar_perfil">Criar Perfil</string>
+    <string name="edTxt_cEmail">E-mail</string>
+    <string name="cTitleNome">Nome</string>
+    <string name="cTitleEmail">Email</string>
 </resources>
