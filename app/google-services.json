@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365309852042",
+    "project_id": "med-ra2",
+    "storage_bucket": "med-ra2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365309852042:android:bd1597b984a7f41e71b073",
+        "android_client_info": {
+          "package_name": "com.pucpr.medtime_ra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365309852042-cqbc505v25qal1e4vcbpfptfsj91klt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUW1h28NIf1wPDbiQzLdRBRNJ1aUnJJZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365309852042-cqbc505v25qal1e4vcbpfptfsj91klt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
